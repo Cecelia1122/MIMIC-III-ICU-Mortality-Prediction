@@ -48,9 +48,8 @@ This project implements an end-to-end pipeline for ICU mortality prediction usin
 
 ### ROC Curve
 
-<p align="center">
-  <img src="results/figures/roc_curve.png" alt="ROC Curve" width="500"/>
-</p>
+<img width="1183" height="882" alt="roc_curve" src="https://github.com/user-attachments/assets/90d53754-506d-4d65-9a9a-33567c9e151f" />
+
 
 ## Dataset
 
@@ -102,8 +101,8 @@ This project uses the [MIMIC-III Clinical Database](https://physionet.org/conten
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mimic-icu-mortality.git
-cd mimic-icu-mortality
+git clone https://github.com/Cecelia/mimic-iii-icu-mortality-prediction.git
+cd mimic-iii-icu-mortality-prediction
 
 # Create virtual environment
 python -m venv venv
