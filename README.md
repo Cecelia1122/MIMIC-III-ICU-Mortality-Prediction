@@ -1,4 +1,3 @@
-# MIMIC-III-ICU-Mortality-Prediction
 # MIMIC-III ICU Mortality Prediction
 
 A multimodal deep learning framework for predicting in-hospital mortality of ICU patients using clinical time-series data and static features from the MIMIC-III database. 
